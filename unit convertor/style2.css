@@ -1,0 +1,48 @@
+body
+{
+    margin: 13px;
+    text-align: center;
+    padding: 0px;
+background-color:aqua;
+
+
+
+}
+
+.converter-body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(244, 244, 142);
+    padding: 50px;
+    border-radius: 20px;
+    display: inline-block;
+    margin:150px;
+    font-size: 25px;
+    font-family: cursive;
+    
+}
+
+.converter-title
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+input[type="text" i] {
+    padding: 15px;
+    font-size: large;
+}
+
+select
+{
+    font-size: 40px;
+}
+
+
+
